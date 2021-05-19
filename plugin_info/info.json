@@ -1,0 +1,20 @@
+{
+	"id" : "NetatmoEnergy",
+	"name" : "Netatmo Energy",
+	"description" : {
+		"fr_FR": "Plugin pour intégrer les vannes connectées et le thermostat Netatmo à Jeedom",
+		"en_US": "Plugin to control and monitor smart Thermostat and smart Radiator valve from Netatmo in Jeedom"
+	},
+	"licence" : "AGPL",
+	"author" : "Jeedom SAS",
+	"require" : "3.3.39",
+	"category" : "monitoring",
+	"changelog" : "",
+	"documentation" : "",
+	"link" : {
+		"forum":"Lien vers le forum",
+		"video" : "Lien vers une video"
+	},
+	"language" : ["fr_FR","en_US"],
+	"compatibility" : "docker"
+}
